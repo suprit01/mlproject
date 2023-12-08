@@ -3,3 +3,5 @@ numpy
 plotly
 matplotlib
 pandas
+scikit-learn
+catboost
